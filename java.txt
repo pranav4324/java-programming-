@@ -1,0 +1,14 @@
+JAVA - Introduction to programming
+1. what is code ?
+2. Input - Output , variable & Data Types
+3. Conditioonal Statements
+4. Loops
+5. All about patterns
+6. Methods / functions
+7. Space & Time Complexity
+8. Arrays
+9. 2D Arrays
+10. string
+11. stringBuilder
+12. Bit Manipulation
+ 
